@@ -1,0 +1,2 @@
+# This repo is an application of a simple Generative Adversarial Network, tested on the MNIST dataset.
+### GANs are composed of 2 primary components: Generator and Discriminator, these two are entering in a sort of a competition (where the term Adversarial came out) our result is a  generative model that generates the closest digit image in the MNIST dataset fashion starting with a random generated vector with a fixed length.
